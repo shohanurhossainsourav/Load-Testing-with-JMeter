@@ -1,4 +1,5 @@
 # Load-Testing-with-JMeter
+#Summary: Server can handle almost concurrent 3500 API call with almost zero (0.04%) error rate.
 #HTML Report when thread count is 2500
 ![thread 2500](https://user-images.githubusercontent.com/42938943/183656952-cba53a41-d581-419f-b5b7-1cba871e3c3f.png)
 
