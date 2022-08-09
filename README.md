@@ -1,5 +1,5 @@
 # Load-Testing-with-JMeter
-# Summary: In this project I used JMeter for load testing. Ther server or IP name was thetestingworldapi.com .I started with 2500 thread count with zero error rate. When I increased the thread count to 3000 , the error rate was 0.02%. Server can handle almost concurrent 3500 API call with almost zero (0.04%) error rate. 
+# Summary: In this project I used JMeter for load testing. Ther server or IP name was thetestingworldapi.com .I started with 2500 thread count with zero error rate. When I increased the thread count to 3000 , the error rate was 0.02%. Server can handle almost concurrent 3500 API call with almost zero (0.04%) error rate. But when I used 3800 concurrent API call, the error rate was 4.01%.
 
 HTML Report when thread count is 2500
 ![thread 2500](https://user-images.githubusercontent.com/42938943/183656952-cba53a41-d581-419f-b5b7-1cba871e3c3f.png)
